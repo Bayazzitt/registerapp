@@ -1,6 +1,6 @@
 # → React + Firebase ile Giriş/Kayıt Paneli Uygulaması ←
 
-> ### Proje Link 📎 → 
+> ### Proje Link 📎 → https://stunning-pegasus-74a94c.netlify.app
 
 <br>
 
